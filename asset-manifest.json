@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-first-react/static/css/main.fc29d31f.chunk.css",
+    "main.js": "/my-first-react/static/js/main.50fc0d8d.chunk.js",
+    "main.js.map": "/my-first-react/static/js/main.50fc0d8d.chunk.js.map",
+    "runtime-main.js": "/my-first-react/static/js/runtime-main.1db36e6e.js",
+    "runtime-main.js.map": "/my-first-react/static/js/runtime-main.1db36e6e.js.map",
+    "static/js/2.e10ed757.chunk.js": "/my-first-react/static/js/2.e10ed757.chunk.js",
+    "static/js/2.e10ed757.chunk.js.map": "/my-first-react/static/js/2.e10ed757.chunk.js.map",
+    "index.html": "/my-first-react/index.html",
+    "precache-manifest.dd2d463f8e8c154e7fecfb11552a3e72.js": "/my-first-react/precache-manifest.dd2d463f8e8c154e7fecfb11552a3e72.js",
+    "service-worker.js": "/my-first-react/service-worker.js",
+    "static/css/main.fc29d31f.chunk.css.map": "/my-first-react/static/css/main.fc29d31f.chunk.css.map",
+    "static/js/2.e10ed757.chunk.js.LICENSE.txt": "/my-first-react/static/js/2.e10ed757.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1db36e6e.js",
+    "static/js/2.e10ed757.chunk.js",
+    "static/css/main.fc29d31f.chunk.css",
+    "static/js/main.50fc0d8d.chunk.js"
+  ]
+}
